@@ -1,3 +1,3 @@
-for $item in doc("RSS feeds/feed1_extremetech.rss")/channel/item
-where month-from-date(format-date($item/pubDate, "[Y0001]-[M01]-[D01]")) = 2
+for $item in doc("RSS feeds/feed1_extremetech.rss")/rss/channel/item
+where substring($item/pubDate, 9, 8) = "Mar 2024"
 return $item/title
