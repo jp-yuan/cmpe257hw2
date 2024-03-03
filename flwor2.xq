@@ -1,7 +1,6 @@
-
 let $searchterm1 := "Taylor"
 let $searchterm2 := "Swift"
-for $item in doc("RSSFeeds/feed1_extremetech.rss")/rss/channel/item
+for $item in doc("RSSFeeds/feed1_extremetech.rss")/channel/item
 where contains(text(), $searchterm1)
 and contains (text(), $searchterm2)
 order by $item/pubDate descending
