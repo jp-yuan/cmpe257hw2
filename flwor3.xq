@@ -1,5 +1,10 @@
-for $item in doc(""RSSFeeds/feed1_extremetech.rss")/channel/item
-let $targetterm := "Deal"
-where contains(text(), $targetterm)
+for $item in doc("RSS feeds/feed05.xml")/rss/channel/item
+let $targetterm := "was"
+where contains($item/title, $targetterm)
 order by $item/pubDate
-return $item/pubDate
+count $rank
+where $rank = 1
+return 
+ <item>
+     {$item/title, $item/pubDate}
+ </item>
