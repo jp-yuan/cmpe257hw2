@@ -1,4 +1,4 @@
-for $item in doc("RSS feeds/feed1_extremetech.rss")/rss/channel/item
-let $month := "Mar"
-where $month = substring($item/pubDate, 9, 3)
+for $item in doc("RSS feeds/feed05.xml")/rss/channel/item
+let $month := "02"
+where $month = substring($item/pubDate, 6, 2)
 return $item/title
