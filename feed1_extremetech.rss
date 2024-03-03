@@ -1,0 +1,916 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
+  <channel>
+    <title>ExtremeTech</title>
+    <link>https://www.extremetech.com/feed</link>
+    <description>ExtremeTech is the Web's top destination for news and analysis of emerging science and technology trends, and important software, hardware, and gadgets.</description>
+    <pubDate>Sat, 02 Mar 2024 07:46:22 +0000</pubDate>
+    <language>en-us</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.extremetech.com/feed"/>
+    <lastBuildDate>Sat, 02 Mar 2024 07:46:22 +0000</lastBuildDate>
+    <copyright>Copyright 2024 Ziff Davis, LLC. All Rights Reserved.</copyright>
+    <ttl>15</ttl>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+    <item>
+      <title>NASA Tests Docking Port on SpaceX's Starship Lunar Lander</title>
+      <guid isPermaLink="false">00mSJkncXbaFe0mtNUAbtUm</guid>
+      <pubDate>Fri, 01 Mar 2024 18:05:00 +0000</pubDate>
+      <description><![CDATA[Starship HLS is one step closer to reality.]]></description>
+      <link>https://www.extremetech.com/aerospace/nasa-tests-docking-port-on-spacexs-starship-lunar-lander</link>
+      <dc:creator>Ryan Whitwam</dc:creator>
+      <category><![CDATA[Aerospace]]></category>
+    </item>
+    <item>
+      <title>World's Smallest Water-Cooled PC With Discrete Graphics Is Cute, Powerful</title>
+      <guid isPermaLink="false">07JRJ4NKgBtzMB2A99zrQLq</guid>
+      <pubDate>Fri, 01 Mar 2024 17:20:00 +0000</pubDate>
+      <description><![CDATA[The 'vertical shoebox' design sports an Intel Core Ultra CPU and an RTX 4060.]]></description>
+      <link>https://www.extremetech.com/gaming/worlds-smallest-water-cooled-pc-with-discrete-graphics-is-cute-powerful</link>
+      <dc:creator>Josh Norem</dc:creator>
+      <category><![CDATA[Gaming]]></category>
+    </item>
+    <item>
+      <title>Big Smart Security Deals: 50% Off Blink Cameras</title>
+      <guid isPermaLink="false">04ChFC7MfkkrcqgAbjDgfL0</guid>
+      <pubDate>Fri, 01 Mar 2024 17:19:00 +0000</pubDate>
+      <description><![CDATA[Keep your home, office, or cave secure with these networked day and night cameras, alarms, and more.]]></description>
+      <link>https://www.extremetech.com/electronics/big-smart-security-deals-50-off-blink-cameras</link>
+      <dc:creator>K. Thor Jensen</dc:creator>
+      <category><![CDATA[Consumer Electronics]]></category>
+    </item>
+    <item>
+      <title>Microsoft Adds a Ton of New Features to AI Copilot for Windows 11</title>
+      <guid isPermaLink="false">01W9Iq44M32rmKGe586oRiE</guid>
+      <pubDate>Fri, 01 Mar 2024 15:42:52 +0000</pubDate>
+      <description><![CDATA[It can now access system settings, use plug-ins for a variety of popular apps, and lots more.]]></description>
+      <link>https://www.extremetech.com/computing/microsoft-adds-a-ton-of-new-features-to-ai-copilot-for-windows-11</link>
+      <dc:creator>Josh Norem</dc:creator>
+      <category><![CDATA[Computing]]></category>
+    </item>
+    <item>
+      <title>When Is the Next Full Moon?</title>
+      <guid isPermaLink="false">05XrOgEWhTvIlJjbDUl0cBS</guid>
+      <pubDate>Fri, 01 Mar 2024 13:46:35 +0000</pubDate>
+      <description><![CDATA[March's lunar cycle boasts not just the spring equinox but a partial penumbral lunar eclipse.]]></description>
+      <link>https://www.extremetech.com/science/when-is-the-next-full-moon</link>
+      <dc:creator>Jessica Hall</dc:creator>
+      <category><![CDATA[Science]]></category>
+    </item>
+    <item>
+      <title>Webb Telescope Reveals Skeleton of a Stunning, Solitary Galaxy</title>
+      <guid isPermaLink="false">04fijhPgIaN8GCS3EEpA1Y1</guid>
+      <pubDate>Fri, 01 Mar 2024 13:02:00 +0000</pubDate>
+      <description><![CDATA[NGC 1559 is all alone out there, but we can marvel from afar, thanks to Webb.]]></description>
+      <link>https://www.extremetech.com/science/webb-telescope-reveals-skeleton-of-a-stunning-solitary-galaxy</link>
+      <dc:creator>Ryan Whitwam</dc:creator>
+      <category><![CDATA[Science]]></category>
+    </item>
+    <item>
+      <title>Intel, ASML Announce 'First Light' for World's First High-NA Lithography Machine</title>
+      <guid isPermaLink="false">03mhWnhXxNAn5EpGEBke8Kw</guid>
+      <pubDate>Fri, 01 Mar 2024 12:00:00 +0000</pubDate>
+      <description><![CDATA[Intel is the first foundry to plunk down a truckload of cash for ASML's most advanced chip manufacturing machines.]]></description>
+      <link>https://www.extremetech.com/computing/intel-asml-announce-first-light-for-worlds-first-high-na-lithography-machine</link>
+      <dc:creator>Josh Norem</dc:creator>
+      <category><![CDATA[Computing]]></category>
+    </item>
+    <item>
+      <title>Save More Than $40 on This Refurbished Lenovo PC With 16GB RAM</title>
+      <guid isPermaLink="false">05XfOwZ3CgBBmELarMTsdsr</guid>
+      <pubDate>Fri, 01 Mar 2024 11:59:00 +0000</pubDate>
+      <description><![CDATA[This 2020-model Lenovo ThinkCentre is a smart way to save both money and the environment.]]></description>
+      <link>https://www.extremetech.com/deals/save-more-than-40-on-this-refurbished-lenovo-pc-with-16gb-ram</link>
+      <dc:creator>StackCommerce Team </dc:creator>
+      <category><![CDATA[Deals]]></category>
+    </item>
+    <item>
+      <title>Researchers Map United States’ 36.8 Million Annual Lightning Strikes</title>
+      <guid isPermaLink="false">021qpI7hBKOnv7DarelxOag</guid>
+      <pubDate>Thu, 29 Feb 2024 21:31:18 +0000</pubDate>
+      <description><![CDATA[The Gulf Coast and Southern Plains most commonly see lightning hit the ground, while the western US experiences fewer strikes.]]></description>
+      <link>https://www.extremetech.com/science/researchers-map-united-states-368-million-annual-lightning-strikes</link>
+      <dc:creator>Adrianna Nine</dc:creator>
+      <category><![CDATA[Science]]></category>
+    </item>
+    <item>
+      <title>It’s Time to Move Away From C and C++, Says White House</title>
+      <guid isPermaLink="false">03JKEEWdBSTOgw3EjbEDsUA</guid>
+      <pubDate>Thu, 29 Feb 2024 20:21:25 +0000</pubDate>
+      <description><![CDATA[Shifting toward memory-safe programming languages could alleviate cybersecurity risks for individuals and small businesses, the Biden administration claims.]]></description>
+      <link>https://www.extremetech.com/internet/its-time-to-move-away-from-c-and-c-plus-plus-says-white-house</link>
+      <dc:creator>Adrianna Nine</dc:creator>
+      <category><![CDATA[Internet & Security]]></category>
+    </item>
+    <item>
+      <title>Amazon Continues to Sell This Doorbell Camera With Terrible Security</title>
+      <guid isPermaLink="false">04nR5bkRiC5JTUUbiLDcnWQ</guid>
+      <pubDate>Thu, 29 Feb 2024 19:34:21 +0000</pubDate>
+      <description><![CDATA[Consumer Reports says anyone can access these cameras, and retailers are still selling them.]]></description>
+      <link>https://www.extremetech.com/electronics/amazon-continues-to-sell-this-doorbell-camera-with-terrible-security</link>
+      <dc:creator>Ryan Whitwam</dc:creator>
+      <category><![CDATA[Consumer Electronics]]></category>
+    </item>
+    <item>
+      <title>The Nvidia RTX 5090 Is Rumored to Be Up to 70% Faster Than the RTX 4090</title>
+      <guid isPermaLink="false">06mVBrMdmgtgnqctUXltI7m</guid>
+      <pubDate>Thu, 29 Feb 2024 17:24:49 +0000</pubDate>
+      <description><![CDATA[Its pricing could be just as eye-popping as its performance.]]></description>
+      <link>https://www.extremetech.com/gaming/the-nvidia-rtx-5090-is-rumored-to-be-up-to-70-faster-than-the-rtx-4090</link>
+      <dc:creator>Josh Norem</dc:creator>
+      <category><![CDATA[Gaming]]></category>
+    </item>
+    <item>
+      <title>Microsoft to End the Upscaling Wars With DirectX Super Resolution API</title>
+      <guid isPermaLink="false">025xX9i0Hg9nazl6EtXalNG</guid>
+      <pubDate>Thu, 29 Feb 2024 15:31:28 +0000</pubDate>
+      <description><![CDATA[Developers would no longer have to choose which upscaling technology to support.]]></description>
+      <link>https://www.extremetech.com/gaming/microsoft-to-end-the-upscaling-wars-with-directx-super-resolution-api</link>
+      <dc:creator>Josh Norem</dc:creator>
+      <category><![CDATA[Gaming]]></category>
+    </item>
+    <item>
+      <title>Intel CEO Says He's Betting the Entire Company's Future on its 18A Process</title>
+      <guid isPermaLink="false">07bK1b9j4Q5QNgao8tAQoCN</guid>
+      <pubDate>Thu, 29 Feb 2024 14:00:00 +0000</pubDate>
+      <description><![CDATA[Due in 2025, Intel 18A is the process that will supposedly vault the company back onto the top step of the semiconductor podium.]]></description>
+      <link>https://www.extremetech.com/computing/intel-ceo-says-hes-betting-the-entire-companys-future-on-its-18a-process</link>
+      <dc:creator>Josh Norem</dc:creator>
+      <category><![CDATA[Computing]]></category>
+    </item>
+    <item>
+      <title>Former AMD VP Likens Nvidia to a 'GPU Cartel'</title>
+      <guid isPermaLink="false">05U0EoIJi2IGSloWAhhhps4</guid>
+      <pubDate>Thu, 29 Feb 2024 13:04:00 +0000</pubDate>
+      <description><![CDATA[AMD has been accused of delaying shipment of AI GPUs to partners that it thinks are talking to its competitors.]]></description>
+      <link>https://www.extremetech.com/gaming/former-amd-vp-likens-nvidia-to-a-gpu-cartel</link>
+      <dc:creator>Josh Norem</dc:creator>
+      <category><![CDATA[Gaming]]></category>
+    </item>
+    <item>
+      <title>TRAPPIST-1 Planet May Be Boiling Its Own Atmosphere</title>
+      <guid isPermaLink="false">01ESnlPBdddGdaDozftFGc4</guid>
+      <pubDate>Thu, 29 Feb 2024 12:00:00 +0000</pubDate>
+      <description><![CDATA[These "habitable" exoplanets may be less hospitable than we hoped.]]></description>
+      <link>https://www.extremetech.com/science/trappist-1-planet-may-be-boiling-its-own-atmosphere</link>
+      <dc:creator>Ryan Whitwam</dc:creator>
+      <category><![CDATA[Science]]></category>
+    </item>
+    <item>
+      <title>This Clever Pocket Microscope Lights Up the Invisible World for Recording</title>
+      <guid isPermaLink="false">054teHuZwOznInanpeChUB9</guid>
+      <pubDate>Thu, 29 Feb 2024 11:59:00 +0000</pubDate>
+      <description><![CDATA[Capture incredible video of the micro world with $18 off this microscope today.]]></description>
+      <link>https://www.extremetech.com/deals/this-clever-pocket-microscope-lights-up-the-invisible-world-for-recording</link>
+      <dc:creator>StackCommerce Team </dc:creator>
+      <category><![CDATA[Deals]]></category>
+    </item>
+    <item>
+      <title>Elon Musk Hypes Revived Tesla Roadster</title>
+      <guid isPermaLink="false">06K5ucntaT7ZwmDmCHdXcEC</guid>
+      <pubDate>Wed, 28 Feb 2024 20:30:00 +0000</pubDate>
+      <description><![CDATA[The idea that the Roadster will allegedly go from 0 to 60 in under a second is ‘the least interesting’ thing about the electric sports car, Musk says.]]></description>
+      <link>https://www.extremetech.com/cars/elon-musk-hypes-revived-tesla-roadster</link>
+      <dc:creator>Adrianna Nine</dc:creator>
+      <category><![CDATA[Cars]]></category>
+    </item>
+    <item>
+      <title>Leak Shows Samsung Galaxy Z Fold 6 Ahead of July Reveal</title>
+      <guid isPermaLink="false">06bW1kblXP92RtuWQyj4Li9</guid>
+      <pubDate>Wed, 28 Feb 2024 19:45:45 +0000</pubDate>
+      <description><![CDATA[The Z Fold 6 is shaping up to be another iterative improvement.]]></description>
+      <link>https://www.extremetech.com/mobile/leak-shows-samsung-galaxy-z-fold-6-ahead-of-july-reveal</link>
+      <dc:creator>Ryan Whitwam</dc:creator>
+      <category><![CDATA[Phones]]></category>
+    </item>
+    <item>
+      <title>New Ransomware Gang Claims Responsibility for Alleged Epic Games Hack</title>
+      <guid isPermaLink="false">04Y7Vu37hKCizvf4atr7LoH</guid>
+      <pubDate>Wed, 28 Feb 2024 18:20:00 +0000</pubDate>
+      <description><![CDATA[Epic Games says there is ‘zero evidence right now’ that Mogilevich is behind the supposed 189GB theft.]]></description>
+      <link>https://www.extremetech.com/internet/new-ransomware-gang-claims-responsibility-for-epic-games-hack</link>
+      <dc:creator>Adrianna Nine</dc:creator>
+      <category><![CDATA[Internet & Security]]></category>
+    </item>
+    <item>
+      <title>Report: Samsung Throttles NAND Production by 50%</title>
+      <guid isPermaLink="false">002tpf2LP2E9kNixT0GFtw0</guid>
+      <pubDate>Wed, 28 Feb 2024 17:30:00 +0000</pubDate>
+      <description><![CDATA[We hope you bought an SSD last year when prices were affordable.]]></description>
+      <link>https://www.extremetech.com/computing/report-samsung-throttles-nand-production-by-50</link>
+      <dc:creator>Josh Norem</dc:creator>
+      <category><![CDATA[Computing]]></category>
+    </item>
+    <item>
+      <title>Intel Adds New 1nm Node to Its Foundry Roadmap for 2027</title>
+      <guid isPermaLink="false">02XTcqEoIKbgitjFZWUIUWp</guid>
+      <pubDate>Wed, 28 Feb 2024 15:30:56 +0000</pubDate>
+      <description><![CDATA[It also says AI 'Cobots,' or collaborative robots, will work alongside humans in future foundries.]]></description>
+      <link>https://www.extremetech.com/computing/intel-adds-new-1nm-node-to-its-foundry-roadmap-for-2027</link>
+      <dc:creator>Josh Norem</dc:creator>
+      <category><![CDATA[Computing]]></category>
+    </item>
+    <item>
+      <title>Scientists Find Key Element of 'Holy Grail' Universal Antivenom</title>
+      <guid isPermaLink="false">051xZ3ApXLIEyR3Rv8EqO9X</guid>
+      <pubDate>Wed, 28 Feb 2024 14:00:00 +0000</pubDate>
+      <description><![CDATA[95Mat5, an artificial human antibody, could aid in the development of an antidote that fights all deadly snake bites.]]></description>
+      <link>https://www.extremetech.com/science/scientists-find-key-element-of-holy-grail-universal-antivenom</link>
+      <dc:creator>Adrianna Nine</dc:creator>
+      <category><![CDATA[Science]]></category>
+    </item>
+    <item>
+      <title>SpaceX Reveals Why Its Second Starship Exploded in Flight</title>
+      <guid isPermaLink="false">04iDQGxTBbvXjnYc92WDoBD</guid>
+      <pubDate>Wed, 28 Feb 2024 13:01:00 +0000</pubDate>
+      <description><![CDATA[The FAA report clears the way for another launch as soon as next month.]]></description>
+      <link>https://www.extremetech.com/aerospace/spacex-reveals-why-its-second-starship-exploded-in-flight</link>
+      <dc:creator>Ryan Whitwam</dc:creator>
+      <category><![CDATA[Aerospace]]></category>
+    </item>
+    <item>
+      <title>AMD Mulls Upgrading Its MI300 AI Accelerators to HBM3e Memory</title>
+      <guid isPermaLink="false">05VhDLCsNT3JzrkpOaUaZ28</guid>
+      <pubDate>Wed, 28 Feb 2024 12:00:00 +0000</pubDate>
+      <description><![CDATA[AMD seemingly wants to position its products better against Nvidia's lineup.]]></description>
+      <link>https://www.extremetech.com/computing/amd-mulls-upgrading-its-mi300-ai-accelerators-to-hbm3e-memory</link>
+      <dc:creator>Josh Norem</dc:creator>
+      <category><![CDATA[Computing]]></category>
+    </item>
+    <item>
+      <title>Study 25 Languages for Life With This Rosetta Stone Subscription</title>
+      <guid isPermaLink="false">07hMMz09dGqWYY7Tnie1cNb</guid>
+      <pubDate>Wed, 28 Feb 2024 11:59:00 +0000</pubDate>
+      <description><![CDATA[Immersive learning that even has its own speech recognition technology.]]></description>
+      <link>https://www.extremetech.com/deals/study-25-languages-for-life-with-this-rosetta-stone-subscription</link>
+      <dc:creator>StackCommerce Team </dc:creator>
+      <category><![CDATA[Deals]]></category>
+    </item>
+    <item>
+      <title>Apple Vision Pro Screens Are Cracking Left and Right</title>
+      <guid isPermaLink="false">06O31x1VEo5ntT2f2Lwx88s</guid>
+      <pubDate>Tue, 27 Feb 2024 19:45:00 +0000</pubDate>
+      <description><![CDATA[Apple doesn’t seem to have a consistent resolution strategy for the faulty $3,500 devices.]]></description>
+      <link>https://www.extremetech.com/electronics/apple-vision-pro-screens-are-cracking-left-and-right</link>
+      <dc:creator>Adrianna Nine</dc:creator>
+      <category><![CDATA[Consumer Electronics]]></category>
+    </item>
+    <item>
+      <title>Windows 11 24H2 Might 'Feature' Fewer Reboots After Updates</title>
+      <guid isPermaLink="false">05rzKkYDXcT3JCiJTppF6R6</guid>
+      <pubDate>Tue, 27 Feb 2024 18:45:00 +0000</pubDate>
+      <description><![CDATA[The company is borrowing some technology it uses in Windows Server to cut down on the number of reboots users experience.]]></description>
+      <link>https://www.extremetech.com/computing/windows-11-24h2-might-feature-fewer-reboots-after-updates</link>
+      <dc:creator>Josh Norem</dc:creator>
+      <category><![CDATA[Computing]]></category>
+    </item>
+    <item>
+      <title>The Sideways Odysseus Lunar Lander Will Shut Down Today</title>
+      <guid isPermaLink="false">06WOUoN1OjlcK09u7KVsgaw</guid>
+      <pubDate>Tue, 27 Feb 2024 17:36:54 +0000</pubDate>
+      <description><![CDATA[Intuitive Machines confirms the tipped-over vehicle will run out of power in a few hours.]]></description>
+      <link>https://www.extremetech.com/science/the-sideways-odysseus-lunar-lander-will-shut-down-today</link>
+      <dc:creator>Ryan Whitwam</dc:creator>
+      <category><![CDATA[Science]]></category>
+    </item>
+    <item>
+      <title>Samsung Announces 12-Layer Stack of HBM3e DRAM at 36GB</title>
+      <guid isPermaLink="false">06grb2QNMJt3g0ZYneCJS4Z</guid>
+      <pubDate>Tue, 27 Feb 2024 15:44:32 +0000</pubDate>
+      <description><![CDATA[The industry has finally begun to move beyond eight layers per stack for what is currently the fastest 3D-stacked memory available.]]></description>
+      <link>https://www.extremetech.com/computing/samsung-announces-12-layer-stack-of-hbm3e-dram-at-36gb</link>
+      <dc:creator>Josh Norem</dc:creator>
+      <category><![CDATA[Computing]]></category>
+    </item>
+    <item>
+      <title>Tuesday Morning Apple Deals: AirTags, Laptops, and More</title>
+      <guid isPermaLink="false">01MH9W06KFlnr1rYHZ9X5OY</guid>
+      <pubDate>Tue, 27 Feb 2024 15:44:25 +0000</pubDate>
+      <description><![CDATA[Get big mid-week price drops on hot Apple hardware, including laptops, AirTags, headphones, and more.]]></description>
+      <link>https://www.extremetech.com/electronics/tuesday-morning-apple-deals-airtags-laptops-and-more</link>
+      <dc:creator>K. Thor Jensen</dc:creator>
+      <category><![CDATA[Consumer Electronics]]></category>
+    </item>
+    <item>
+      <title>Scientists Design AI That Can Stabilize Fusion Reactors</title>
+      <guid isPermaLink="false">00VkJrNEFE5OeRCiwhf8vQf</guid>
+      <pubDate>Tue, 27 Feb 2024 15:00:00 +0000</pubDate>
+      <description><![CDATA[Fusion reactors can't run for very long, but this AI could change that.]]></description>
+      <link>https://www.extremetech.com/science/scientists-design-ai-that-can-stabilize-fusion-reactors</link>
+      <dc:creator>Ryan Whitwam</dc:creator>
+      <category><![CDATA[Science]]></category>
+    </item>
+    <item>
+      <title>Japan's 'Moon Sniper' Awakens After Long Lunar Night</title>
+      <guid isPermaLink="false">02GDlvrC2cylb8IChn4YRnb</guid>
+      <pubDate>Tue, 27 Feb 2024 14:02:00 +0000</pubDate>
+      <description><![CDATA[In a surprising turn of events, Japan's upside-down lunar lander is still alive.]]></description>
+      <link>https://www.extremetech.com/science/japans-moon-sniper-awakens-after-long-lunar-night</link>
+      <dc:creator>Ryan Whitwam</dc:creator>
+      <category><![CDATA[Science]]></category>
+    </item>
+    <item>
+      <title>Nvidia, OpenAI, Microsoft, Other Tech Titans Investing In Humanoid Robot Startup</title>
+      <guid isPermaLink="false">00PX2j6ThjzFtUKwwjkvuKm</guid>
+      <pubDate>Tue, 27 Feb 2024 13:10:00 +0000</pubDate>
+      <description><![CDATA[Figure AI aims to put its robot, Figure 01, in high-demand and physically dangerous roles.]]></description>
+      <link>https://www.extremetech.com/computing/nvidia-openai-microsoft-other-tech-titans-investing-in-humanoid-robot-startup</link>
+      <dc:creator>Adrianna Nine</dc:creator>
+      <category><![CDATA[Computing]]></category>
+    </item>
+    <item>
+      <title>Astronomers Spot 3 New Moons in Our Solar System</title>
+      <guid isPermaLink="false">06u4aKAMHAhHmaQPlIUGDnP</guid>
+      <pubDate>Tue, 27 Feb 2024 12:00:00 +0000</pubDate>
+      <description><![CDATA[Uranus has one new satellite, and Neptune has two.]]></description>
+      <link>https://www.extremetech.com/science/astronomers-spot-3-new-moons-in-our-solar-system</link>
+      <dc:creator>Ryan Whitwam</dc:creator>
+      <category><![CDATA[Science]]></category>
+    </item>
+    <item>
+      <title>This Near-Mint HP EliteDesk Refurb Is on Sale for $359.99</title>
+      <guid isPermaLink="false">01xQExXRj1IX9qKnFtpxNBr</guid>
+      <pubDate>Tue, 27 Feb 2024 11:59:00 +0000</pubDate>
+      <description><![CDATA[Packed with 16GB RAM, a 512GB Hard Drive, and it comes with a keyboard, mouse, and more.]]></description>
+      <link>https://www.extremetech.com/deals/this-near-mint-hp-elitedesk-refurb-is-on-sale-for-35999</link>
+      <dc:creator>StackCommerce Team </dc:creator>
+      <category><![CDATA[Deals]]></category>
+    </item>
+    <item>
+      <title>Xiaomi Announces Smartphone With Variable Aperture, Leica Glass</title>
+      <guid isPermaLink="false">00JYbnr0jiuL6LLzB8jBzAh</guid>
+      <pubDate>Mon, 26 Feb 2024 19:33:00 +0000</pubDate>
+      <description><![CDATA[The company is clearly targeting professional photographers with its Xiaomi 14 Ultra smartphone.]]></description>
+      <link>https://www.extremetech.com/mobile/xiaomi-announces-smartphone-with-variable-aperture-leica-glass</link>
+      <dc:creator>Josh Norem</dc:creator>
+      <category><![CDATA[Phones]]></category>
+    </item>
+    <item>
+      <title>Nvidia Launches RTX Ada Workstation GPUs for Thin-and-Light Laptops</title>
+      <guid isPermaLink="false">05fg0IKMaCpLK4AuyUUzZa3</guid>
+      <pubDate>Mon, 26 Feb 2024 18:45:00 +0000</pubDate>
+      <description><![CDATA[These GPUs won't be training AI models any time soon, but they do bring workstation power to portable laptops.]]></description>
+      <link>https://www.extremetech.com/computing/nvidia-launches-rtx-ada-workstation-gpus-for-thin-and-light-laptops</link>
+      <dc:creator>Josh Norem</dc:creator>
+      <category><![CDATA[Computing]]></category>
+    </item>
+    <item>
+      <title>Samsung's Galaxy Ring Promises Real-Time Health Monitoring With Biometric Sensors</title>
+      <guid isPermaLink="false">07CYHQDZy95Hj8v3BK2pO6a</guid>
+      <pubDate>Mon, 26 Feb 2024 17:48:52 +0000</pubDate>
+      <description><![CDATA[The company still wants you to wear its smartwatches, though.]]></description>
+      <link>https://www.extremetech.com/electronics/samsungs-galaxy-ring-promises-real-time-health-monitoring-with-biometric</link>
+      <dc:creator>Adrianna Nine</dc:creator>
+      <category><![CDATA[Consumer Electronics]]></category>
+    </item>
+    <item>
+      <title>Lenovo Unveils 'Augmented Reality' Laptop With a Transparent Display</title>
+      <guid isPermaLink="false">01pnosTaeykEE9UFtJrQATR</guid>
+      <pubDate>Mon, 26 Feb 2024 16:30:20 +0000</pubDate>
+      <description><![CDATA[It definitely looks cool, but use cases are few and far between, for now.]]></description>
+      <link>https://www.extremetech.com/electronics/lenovo-unveils-augmented-reality-laptop-with-a-transparent-display</link>
+      <dc:creator>Josh Norem</dc:creator>
+      <category><![CDATA[Consumer Electronics]]></category>
+    </item>
+    <item>
+      <title>Apple's First Foldable Won't Be an iPhone, Supply Chain Sources Say</title>
+      <guid isPermaLink="false">077UTCOZHX9Bfxxzr15domp</guid>
+      <pubDate>Mon, 26 Feb 2024 15:30:00 +0000</pubDate>
+      <description><![CDATA[This leaves us with some pretty wacky options, none of which will hit the market before 2025—if they show up at all.]]></description>
+      <link>https://www.extremetech.com/electronics/apples-first-foldable-wont-be-an-iphone-supply-chain-sources-say</link>
+      <dc:creator>Adrianna Nine</dc:creator>
+      <category><![CDATA[Consumer Electronics]]></category>
+    </item>
+    <item>
+      <title>Deep Sea Expedition Leads to 100 Species Discoveries, 4 'New' Underwater Mountains</title>
+      <guid isPermaLink="false">03TuH0ALWvxSCu87VhvBiVT</guid>
+      <pubDate>Mon, 26 Feb 2024 14:45:00 +0000</pubDate>
+      <description><![CDATA[Using a state-of-the-art sonar array and a remotely operated deep-sea robot, scientists mapped more than 20,000 square miles of the previously unseen ocean floor.]]></description>
+      <link>https://www.extremetech.com/science/deep-sea-expedition-leads-to-100-species-discoveries-4-new-underwater-mountains</link>
+      <dc:creator>Adrianna Nine</dc:creator>
+      <category><![CDATA[Science]]></category>
+    </item>
+    <item>
+      <title>AMD Launches the Radeon RX 7900 GRE Globally at $549</title>
+      <guid isPermaLink="false">07erazzRvlROn4Cy5bZkpp4</guid>
+      <pubDate>Mon, 26 Feb 2024 14:00:00 +0000</pubDate>
+      <description><![CDATA[The GPU used to be for sale only in China, and is aimed at high-refresh, 1440p gaming.]]></description>
+      <link>https://www.extremetech.com/gaming/amd-launches-the-radeon-rx-7900-gre-globally-at-549</link>
+      <dc:creator>Josh Norem</dc:creator>
+      <category><![CDATA[Gaming]]></category>
+    </item>
+    <item>
+      <title>Productivity Is Portable With This Pocket Desktop, Only $100</title>
+      <guid isPermaLink="false">05A1I6AbBqfilVJnsGwMmzK</guid>
+      <pubDate>Mon, 26 Feb 2024 13:59:00 +0000</pubDate>
+      <description><![CDATA[4GB RAM, 64GB Hard Drive, Windows 10 Home, and more ports than you might think.]]></description>
+      <link>https://www.extremetech.com/deals/productivity-is-portable-with-this-pocket-desktop-only-100</link>
+      <dc:creator>StackCommerce Team </dc:creator>
+      <category><![CDATA[Deals]]></category>
+    </item>
+    <item>
+      <title>How Does Electricity Work, and When Was It Invented? A Basic Primer</title>
+      <guid isPermaLink="false">01OJN0hCqZORtAU7jWwmnX5</guid>
+      <pubDate>Mon, 26 Feb 2024 13:00:00 +0000</pubDate>
+      <description><![CDATA[You don't have to be a physicist—or an electrician—to understand electricity.]]></description>
+      <link>https://www.extremetech.com/science/how-does-electricity-work-and-when-was-it-invented</link>
+      <dc:creator>Jessica Hall</dc:creator>
+      <category><![CDATA[Science]]></category>
+    </item>
+    <item>
+      <title>James Webb Telescope Detects Neutron Star Remnant of Famous Supernova</title>
+      <guid isPermaLink="false">06GSwEdOBkIhbGPI1WF9AMN</guid>
+      <pubDate>Mon, 26 Feb 2024 12:00:00 +0000</pubDate>
+      <description><![CDATA[Astronomers studying the SN 1987A supernova may have finally discovered what became of the star.]]></description>
+      <link>https://www.extremetech.com/science/james-webb-telescope-detects-neutron-star-remnant-of-famous-supernova</link>
+      <dc:creator>Ryan Whitwam</dc:creator>
+      <category><![CDATA[Science]]></category>
+    </item>
+    <item>
+      <title>What Is an Exoplanet? A Brief Explainer</title>
+      <guid isPermaLink="false">01egXSsDiCV2TAZeFRxnbZT</guid>
+      <pubDate>Sat, 24 Feb 2024 13:00:00 +0000</pubDate>
+      <description><![CDATA[Some are too hot, and some are too cold, but are any of them just right?]]></description>
+      <link>https://www.extremetech.com/science/what-is-an-exoplanet-a-brief-explainer</link>
+      <dc:creator>Jessica Hall</dc:creator>
+      <category><![CDATA[Science]]></category>
+    </item>
+    <item>
+      <title>Nvidia Says Demand for Its Next-Gen Hardware Will Exceed Supply</title>
+      <guid isPermaLink="false">06Zxti7nABMTff76VLKI6I8</guid>
+      <pubDate>Fri, 23 Feb 2024 20:15:00 +0000</pubDate>
+      <description><![CDATA[The company has already seen record revenues thanks to unprecedented demand for its AI products.]]></description>
+      <link>https://www.extremetech.com/computing/nvidia-says-demand-for-its-next-gen-hardware-will-exceed-supply</link>
+      <dc:creator>Josh Norem</dc:creator>
+      <category><![CDATA[Computing]]></category>
+    </item>
+    <item>
+      <title>Google Will Retire Google Pay App in the US This Year</title>
+      <guid isPermaLink="false">04V6iH4QdAd7qNC5OOGS7rA</guid>
+      <pubDate>Fri, 23 Feb 2024 19:20:45 +0000</pubDate>
+      <description><![CDATA[Google Wallet lives on as the only tap-and-pay app.]]></description>
+      <link>https://www.extremetech.com/mobile/google-will-retire-google-pay-app-in-the-us-this-year</link>
+      <dc:creator>Ryan Whitwam</dc:creator>
+      <category><![CDATA[Phones]]></category>
+    </item>
+    <item>
+      <title>Odysseus Lander Is 'Alive and Well' on the Moon</title>
+      <guid isPermaLink="false">042NYIlPWOWX7ds7OZS21Mu</guid>
+      <pubDate>Fri, 23 Feb 2024 18:01:15 +0000</pubDate>
+      <description><![CDATA[Intuitive Machines expects Odysseus to spend a week operating on the Moon.]]></description>
+      <link>https://www.extremetech.com/science/odysseus-lander-is-alive-and-well-on-the-moon</link>
+      <dc:creator>Ryan Whitwam</dc:creator>
+      <category><![CDATA[Science]]></category>
+    </item>
+    <item>
+      <title>Start Spring Cleaning With Huge Robot Vacuum Deals</title>
+      <guid isPermaLink="false">06E6NUfeBYaUtc8orKf6spG</guid>
+      <pubDate>Fri, 23 Feb 2024 17:08:39 +0000</pubDate>
+      <description><![CDATA[Let the machines clean your floors. There's no chance they'll get fed up with it and take over at these prices.]]></description>
+      <link>https://www.extremetech.com/electronics/start-spring-cleaning-with-huge-robot-vacuum-deals</link>
+      <dc:creator>K. Thor Jensen</dc:creator>
+      <category><![CDATA[Consumer Electronics]]></category>
+    </item>
+    <item>
+      <title>Intel CEO Confirms Arrow Lake Will Feature TSMC 3nm GPU tiles</title>
+      <guid isPermaLink="false">07n6qkdoBvh3HI0oK993IuM</guid>
+      <pubDate>Fri, 23 Feb 2024 15:35:20 +0000</pubDate>
+      <description><![CDATA[Its upcoming Lunar Lake mobile platform will be using these tiles as well.]]></description>
+      <link>https://www.extremetech.com/computing/intel-ceo-confirms-arrow-lake-will-feature-tsmc-3nm-gpu-tiles</link>
+      <dc:creator>Josh Norem</dc:creator>
+      <category><![CDATA[Computing]]></category>
+    </item>
+    <item>
+      <title>The Best Gaming Laptop Deals for February 2024</title>
+      <guid isPermaLink="false">02qDr4gg4wflCngNKL9u4A7</guid>
+      <pubDate>Fri, 23 Feb 2024 14:32:33 +0000</pubDate>
+      <description><![CDATA[Spring into action with huge discounts on some of our favorite gaming laptops, including a killer $600 off the Asus ROG Zephyrus G14.]]></description>
+      <link>https://www.extremetech.com/gaming/the-best-gaming-laptop-deals</link>
+      <dc:creator>K. Thor Jensen</dc:creator>
+      <category><![CDATA[Gaming]]></category>
+    </item>
+    <item>
+      <title>The Best Gaming Desktop PC Deals for February 2024</title>
+      <guid isPermaLink="false">03XS5Afpeg1bhtVfu9GnKJZ</guid>
+      <pubDate>Fri, 23 Feb 2024 14:32:26 +0000</pubDate>
+      <description><![CDATA[It's a fine time to pick up a new battlestation, as we have massive price drops on Alienware, Acer, Lenovo, and more.]]></description>
+      <link>https://www.extremetech.com/gaming/the-best-gaming-desktop-pc-deals</link>
+      <dc:creator>K. Thor Jensen</dc:creator>
+      <category><![CDATA[Gaming]]></category>
+    </item>
+    <item>
+      <title>Google Pixel Phone Sales Hit 10 Million Last Year</title>
+      <guid isPermaLink="false">04UgWFbIv7YLpmg3tEoegjb</guid>
+      <pubDate>Fri, 23 Feb 2024 14:15:00 +0000</pubDate>
+      <description><![CDATA[And Google hopes to do it again in 2024.]]></description>
+      <link>https://www.extremetech.com/mobile/google-pixel-phone-sales-hit-10-million-last-year</link>
+      <dc:creator>Ryan Whitwam</dc:creator>
+      <category><![CDATA[Phones]]></category>
+    </item>
+    <item>
+      <title>Surgery Robot Completes First Simulated Procedure on the ISS</title>
+      <guid isPermaLink="false">06UV8nRnYtPk08AtBdmiNDD</guid>
+      <pubDate>Fri, 23 Feb 2024 13:15:00 +0000</pubDate>
+      <description><![CDATA[Using a 30-inch robotic assistant, surgeons were able to slice delicately through rubber bands from here on Earth.]]></description>
+      <link>https://www.extremetech.com/science/surgery-robot-completes-first-simulated-procedure-on-the-iss</link>
+      <dc:creator>Adrianna Nine</dc:creator>
+      <category><![CDATA[Science]]></category>
+    </item>
+    <item>
+      <title>Astronomers Discover Universe’s Fastest-Growing Black Hole</title>
+      <guid isPermaLink="false">06lBIQlrCBPmhqXTH1ucudP</guid>
+      <pubDate>Fri, 23 Feb 2024 12:00:00 +0000</pubDate>
+      <description><![CDATA[You’d grow quickly, too, if you were eating the equivalent of one Sun per day.]]></description>
+      <link>https://www.extremetech.com/science/astronomers-discover-universes-fastest-growing-black-hole</link>
+      <dc:creator>Adrianna Nine</dc:creator>
+      <category><![CDATA[Science]]></category>
+    </item>
+    <item>
+      <title>$5 Cheaper Than Groupon—Get a Set of Headphones for $35</title>
+      <guid isPermaLink="false">03mOnzUaDoIPqnlH27cL6sk</guid>
+      <pubDate>Fri, 23 Feb 2024 11:59:00 +0000</pubDate>
+      <description><![CDATA[These high-end headphones have soft leatherette ear pads for comfortable listening.]]></description>
+      <link>https://www.extremetech.com/deals/5-cheaper-than-groupon-get-a-set-of-headphones-for-35</link>
+      <dc:creator>StackCommerce Team </dc:creator>
+      <category><![CDATA[Deals]]></category>
+    </item>
+    <item>
+      <title>Odysseus Has Landed on the Moon (UPDATE)</title>
+      <guid isPermaLink="false">05VHajtCTjiJmmExrC2kjHc</guid>
+      <pubDate>Thu, 22 Feb 2024 22:06:07 +0000</pubDate>
+      <description><![CDATA[It's the first Moon landing by a private company and the US's first since 1972.]]></description>
+      <link>https://www.extremetech.com/science/odysseus-intuitive-machines-moon-landing-thursday</link>
+      <dc:creator>Ryan Whitwam</dc:creator>
+      <category><![CDATA[Science]]></category>
+    </item>
+    <item>
+      <title>Nvidia Kills GeForce Experience, Unveils New 'Nvidia' App</title>
+      <guid isPermaLink="false">00k4zkEhuQr67MmSb0dHJ8T</guid>
+      <pubDate>Thu, 22 Feb 2024 19:30:00 +0000</pubDate>
+      <description><![CDATA[The Nvidia Control Panel has survived the software downsizing event.]]></description>
+      <link>https://www.extremetech.com/gaming/nvidia-kills-geforce-experience-unveils-new-nvidia-app</link>
+      <dc:creator>Josh Norem</dc:creator>
+      <category><![CDATA[Gaming]]></category>
+    </item>
+    <item>
+      <title>Blue Origin May Buy United Launch Alliance, Putting Pressure on SpaceX</title>
+      <guid isPermaLink="false">05dBYihz2QZjxfyJo0a7nS6</guid>
+      <pubDate>Thu, 22 Feb 2024 18:30:19 +0000</pubDate>
+      <description><![CDATA[The combination could give Jeff Bezos' spaceflight firm a big boost.]]></description>
+      <link>https://www.extremetech.com/aerospace/blue-origin-may-buy-united-launch-alliance-putting-pressure-on-spacex</link>
+      <dc:creator>Ryan Whitwam</dc:creator>
+      <category><![CDATA[Aerospace]]></category>
+    </item>
+    <item>
+      <title>Nvidia's Quarterly Earnings Show Over 400% in Data Center Gains Year-Over-Year</title>
+      <guid isPermaLink="false">04phu00rPGDH6gFowPvFeIn</guid>
+      <pubDate>Thu, 22 Feb 2024 17:53:50 +0000</pubDate>
+      <description><![CDATA[The company's meteoric ascent continues with another record-breaking quarter.]]></description>
+      <link>https://www.extremetech.com/computing/nvidias-quarterly-earnings-show-over-400-in-data-center-gains-year-over</link>
+      <dc:creator>Josh Norem</dc:creator>
+      <category><![CDATA[Computing]]></category>
+    </item>
+    <item>
+      <title>Intel, Microsoft Shock With Custom Chip Deal on Intel 18A Process</title>
+      <guid isPermaLink="false">06dPSPaOytgxq0bck1nkn7d</guid>
+      <pubDate>Thu, 22 Feb 2024 15:42:35 +0000</pubDate>
+      <description><![CDATA[It's an absolutely huge win for Intel's foundry efforts.]]></description>
+      <link>https://www.extremetech.com/computing/intel-microsoft-shock-with-custom-chip-deal-on-intel-18a-process</link>
+      <dc:creator>Josh Norem</dc:creator>
+      <category><![CDATA[Computing]]></category>
+    </item>
+    <item>
+      <title>Photos Show Dead Satellite’s Tumble Into the Atmosphere</title>
+      <guid isPermaLink="false">01K3BgcrRiguvwg9vvYfXXa</guid>
+      <pubDate>Thu, 22 Feb 2024 15:00:00 +0000</pubDate>
+      <description><![CDATA[The ESA's ERS-2 has been floating around space for 13 years. Yesterday, it reached its fiery end.]]></description>
+      <link>https://www.extremetech.com/science/photos-show-dead-satellites-tumble-into-the-atmosphere</link>
+      <dc:creator>Adrianna Nine</dc:creator>
+      <category><![CDATA[Science]]></category>
+    </item>
+    <item>
+      <title>DeepCool Adds a Snazzy 2.8-Inch Display to Its Newest All-In-One Coolers</title>
+      <guid isPermaLink="false">03YWPbT36v3YhWmHG80HmGv</guid>
+      <pubDate>Thu, 22 Feb 2024 14:12:20 +0000</pubDate>
+      <description><![CDATA[Finally, another way to watch an animated GIF on our PCs.]]></description>
+      <link>https://www.extremetech.com/gaming/deepcool-adds-a-snazzy-28-inch-display-to-its-newest-all-in-one-coolers</link>
+      <dc:creator>Josh Norem</dc:creator>
+      <category><![CDATA[Gaming]]></category>
+    </item>
+    <item>
+      <title>Google Announced 'Gemma' Open Source AI Models</title>
+      <guid isPermaLink="false">04nyrKlrihfqiIPngbGoBZw</guid>
+      <pubDate>Thu, 22 Feb 2024 14:00:00 +0000</pubDate>
+      <description><![CDATA[Google says the first two Gemma AI models are more capable than they may first appear.]]></description>
+      <link>https://www.extremetech.com/computing/google-announced-gemma-open-source-ai-models</link>
+      <dc:creator>Ryan Whitwam</dc:creator>
+      <category><![CDATA[Computing]]></category>
+    </item>
+    <item>
+      <title>Windows Task Manager Will Soon Include AMD NPU Activity</title>
+      <guid isPermaLink="false">02VmbvPjeGw6mAi0fL10HLZ</guid>
+      <pubDate>Thu, 22 Feb 2024 12:00:00 +0000</pubDate>
+      <description><![CDATA[It's already possible on Intel's newest tile-based CPUs, but now AMD will be joining the party as well.]]></description>
+      <link>https://www.extremetech.com/computing/windows-task-manager-will-soon-include-amd-npu-activity</link>
+      <dc:creator>Josh Norem</dc:creator>
+      <category><![CDATA[Computing]]></category>
+    </item>
+    <item>
+      <title>Stay Connected With This $17 4G Wi-Fi Hotspot</title>
+      <guid isPermaLink="false">022xakG5bkcbqNBdWRwh14R</guid>
+      <pubDate>Thu, 22 Feb 2024 11:59:00 +0000</pubDate>
+      <description><![CDATA[This Suncomm device delivers up to eight hours of portable Wi-Fi connection per charge.]]></description>
+      <link>https://www.extremetech.com/deals/stay-connected-with-this-17-4g-wi-fi-hotspot</link>
+      <dc:creator>StackCommerce Team </dc:creator>
+      <category><![CDATA[Deals]]></category>
+    </item>
+    <item>
+      <title>The Best Graphics Card Deals for February 2024</title>
+      <guid isPermaLink="false">000uSqNfP4G8qUKMwEXvMCt</guid>
+      <pubDate>Thu, 22 Feb 2024 11:58:00 +0000</pubDate>
+      <description><![CDATA[Supercharge your PC's performance with these graphics cards at unbeatable prices.]]></description>
+      <link>https://www.extremetech.com/gaming/the-best-graphics-card-deals</link>
+      <dc:creator>K. Thor Jensen</dc:creator>
+      <category><![CDATA[Gaming]]></category>
+    </item>
+    <item>
+      <title>Law Enforcement Locks Down LockBit Ransomware Group, Arrests 2</title>
+      <guid isPermaLink="false">03jGQ3m9iD0HDU4GlO5u5LB</guid>
+      <pubDate>Wed, 21 Feb 2024 20:20:03 +0000</pubDate>
+      <description><![CDATA[The world’s biggest ransomware syndicate has swiped more than $120 million from victims like Boeing and the United Kingdom’s Royal Mail.]]></description>
+      <link>https://www.extremetech.com/internet/law-enforcement-locks-down-lockbit-ransomware-group-arrests-2</link>
+      <dc:creator>Adrianna Nine</dc:creator>
+      <category><![CDATA[Internet & Security]]></category>
+    </item>
+    <item>
+      <title>Wireless EV Charging Is Slowly Gaining Traction</title>
+      <guid isPermaLink="false">00aUgLwmVK3aMY1Xapd0Hr7</guid>
+      <pubDate>Wed, 21 Feb 2024 19:20:00 +0000</pubDate>
+      <description><![CDATA[Pilot projects around the world are allowing researchers and drivers to test the technology’s real-life viability.]]></description>
+      <link>https://www.extremetech.com/cars/wireless-ev-charging-is-slowly-gaining-traction</link>
+      <dc:creator>Adrianna Nine</dc:creator>
+      <category><![CDATA[Cars]]></category>
+    </item>
+    <item>
+      <title>Report: AMD's Zen 5 Architecture Is Starting Volume Production in Q3</title>
+      <guid isPermaLink="false">05zNp9OjbT65Y9M3LxLnImd</guid>
+      <pubDate>Wed, 21 Feb 2024 17:30:00 +0000</pubDate>
+      <description><![CDATA[AMD is rumored to be using 3nm for its low-power Zen 5c and 4nm for standard Zen 5 CPUs.]]></description>
+      <link>https://www.extremetech.com/computing/report-amds-zen-5-architecture-is-starting-volume-production-in-q3</link>
+      <dc:creator>Josh Norem</dc:creator>
+      <category><![CDATA[Computing]]></category>
+    </item>
+    <item>
+      <title>Intel Updates Roadmap With New 14A Node and Upcoming 'Process Evolutions'</title>
+      <guid isPermaLink="false">04DH2OHvxiWSZ5KbbPb0KYa</guid>
+      <pubDate>Wed, 21 Feb 2024 16:30:00 +0000</pubDate>
+      <description><![CDATA[The company's 14A node will be the world's first to use High-NA lithography.]]></description>
+      <link>https://www.extremetech.com/computing/intel-updates-roadmap-with-new-14a-node-and-upcoming-process-evolutions</link>
+      <dc:creator>Josh Norem</dc:creator>
+      <category><![CDATA[Computing]]></category>
+    </item>
+    <item>
+      <title>The Best TV Deals for February 2024</title>
+      <guid isPermaLink="false">03hSwzq5yjDeozFgUuCDK7n</guid>
+      <pubDate>Wed, 21 Feb 2024 14:59:00 +0000</pubDate>
+      <description><![CDATA[We've got huge price drops as much as $3,000 on TVs of all sizes.]]></description>
+      <link>https://www.extremetech.com/electronics/the-best-tv-deals</link>
+      <dc:creator>K. Thor Jensen</dc:creator>
+      <category><![CDATA[Consumer Electronics]]></category>
+    </item>
+    <item>
+      <title>Textured Solar Cells Could Capture 66% More Sunlight</title>
+      <guid isPermaLink="false">03i3aqyPLbsA2fBkRMqMpwj</guid>
+      <pubDate>Wed, 21 Feb 2024 13:15:00 +0000</pubDate>
+      <description><![CDATA[A theoretical study out of Turkey shows that braille-like bumps would allow light to enter the cell from a wider range of directions.]]></description>
+      <link>https://www.extremetech.com/energy/textured-solar-cells-could-capture-66-more-sunlight</link>
+      <dc:creator>Adrianna Nine</dc:creator>
+      <category><![CDATA[Energy]]></category>
+    </item>
+    <item>
+      <title>NASA Prepares to Launch Twin Satellites to Study Climate Change at the Poles</title>
+      <guid isPermaLink="false">04kc2FFMsUN8BTD1lanENit</guid>
+      <pubDate>Wed, 21 Feb 2024 12:00:00 +0000</pubDate>
+      <description><![CDATA[The PREFIRE spacecraft will leave Earth behind this coming May.]]></description>
+      <link>https://www.extremetech.com/science/nasa-prepares-to-launch-twin-satellites-to-study-climate-change-at-the</link>
+      <dc:creator>Ryan Whitwam</dc:creator>
+      <category><![CDATA[Science]]></category>
+    </item>
+    <item>
+      <title>Get 2TB of Reliable Photo and Video Backup Space for Only $280</title>
+      <guid isPermaLink="false">02k39iRtTya4xaQrGT030Vb</guid>
+      <pubDate>Wed, 21 Feb 2024 11:59:00 +0000</pubDate>
+      <description><![CDATA[This new-age device backs up your data remotely and automatically.]]></description>
+      <link>https://www.extremetech.com/deals/get-2tb-of-reliable-photo-and-video-backup-space-for-only-280</link>
+      <dc:creator>StackCommerce Team </dc:creator>
+      <category><![CDATA[Deals]]></category>
+    </item>
+    <item>
+      <title>The Best SSD and Hard Drive Deals for February 2024</title>
+      <guid isPermaLink="false">07MAbsJUtDUmjfJLwfr6ig8</guid>
+      <pubDate>Wed, 21 Feb 2024 11:58:00 +0000</pubDate>
+      <description><![CDATA[If you're running out of storage space in your digital life, we've got drive deals for you.]]></description>
+      <link>https://www.extremetech.com/computing/the-best-ssd-and-hard-drive-deals</link>
+      <dc:creator>K. Thor Jensen</dc:creator>
+      <category><![CDATA[Computing]]></category>
+    </item>
+    <item>
+      <title>These Flights Aim to Maximize Your April 8 Solar Eclipse Viewing Time</title>
+      <guid isPermaLink="false">01lvOUN9HCcSZJ8rNkvJFmt</guid>
+      <pubDate>Tue, 20 Feb 2024 21:00:00 +0000</pubDate>
+      <description><![CDATA[It’s an immense privilege to hop on a jet just to watch a solar eclipse, but if doing so fits within your schedule and budget, these flights could make for a memorable experience.]]></description>
+      <link>https://www.extremetech.com/science/these-flights-aim-to-maximize-your-april-8-solar-eclipse-viewing-time</link>
+      <dc:creator>Adrianna Nine</dc:creator>
+      <category><![CDATA[Science]]></category>
+    </item>
+    <item>
+      <title>CHIPS Act Funds Begin to Flow to US Fabs Including Intel, GlobalFoundries</title>
+      <guid isPermaLink="false">04tgxZfmXpeSRzosGLcoMZn</guid>
+      <pubDate>Tue, 20 Feb 2024 20:00:00 +0000</pubDate>
+      <description><![CDATA[Intel is on tap to receive 10 large from Uncle Sam.]]></description>
+      <link>https://www.extremetech.com/computing/chips-act-funds-begin-to-flow-to-us-fabs-including-intel-globalfoundries</link>
+      <dc:creator>Josh Norem</dc:creator>
+      <category><![CDATA[Computing]]></category>
+    </item>
+    <item>
+      <title>The Best Gaming Monitor Deals for February 2024</title>
+      <guid isPermaLink="false">04zySGw97MyRLQ9OpKLhkAi</guid>
+      <pubDate>Tue, 20 Feb 2024 19:59:00 +0000</pubDate>
+      <description><![CDATA[Upgrade your display with more resolution, a faster frame rate, and extra perks for less.]]></description>
+      <link>https://www.extremetech.com/gaming/the-best-gaming-monitor-deals</link>
+      <dc:creator>K. Thor Jensen</dc:creator>
+      <category><![CDATA[Gaming]]></category>
+    </item>
+    <item>
+      <title>Intel's 288-Core Clearwater Forest Xeon CPU to Utilize Foveros 3D Stacking: Report</title>
+      <guid isPermaLink="false">07qHeklixVklhAKsogoPNfB</guid>
+      <pubDate>Tue, 20 Feb 2024 17:30:00 +0000</pubDate>
+      <description><![CDATA[This chip is supposed to arrive in 2025 on the company's 18A process.]]></description>
+      <link>https://www.extremetech.com/computing/intels-288-core-clearwater-forest-xeon-cpu-to-utilize-foveros-3d-stacking</link>
+      <dc:creator>Josh Norem</dc:creator>
+      <category><![CDATA[Computing]]></category>
+    </item>
+    <item>
+      <title>The Best Gaming Chair Deals for February 2024</title>
+      <guid isPermaLink="false">02D4301Su2F2IqZspXwPldD</guid>
+      <pubDate>Tue, 20 Feb 2024 17:29:00 +0000</pubDate>
+      <description><![CDATA[Perfect your posture as you lower your ping with these ergonomic seats]]></description>
+      <link>https://www.extremetech.com/gaming/the-best-gaming-chair-deals</link>
+      <dc:creator>K. Thor Jensen</dc:creator>
+      <category><![CDATA[Gaming]]></category>
+    </item>
+    <item>
+      <title>World’s First Wooden Satellite Aims to Mitigate Growing Space Junk Problem</title>
+      <guid isPermaLink="false">01o55IGpRqdukk9D6alcGM1</guid>
+      <pubDate>Tue, 20 Feb 2024 15:23:40 +0000</pubDate>
+      <description><![CDATA[Made from magnolia lumber, Japan’s LignoSat probe will hopefully hitch a ride to space later this year.]]></description>
+      <link>https://www.extremetech.com/science/worlds-first-wooden-satellite-aims-to-mitigate-growing-space-junk-problem</link>
+      <dc:creator>Adrianna Nine</dc:creator>
+      <category><![CDATA[Science]]></category>
+    </item>
+    <item>
+      <title>The Best Router and Mesh Wi-Fi Deals for February 2024</title>
+      <guid isPermaLink="false">00N4O0tCK5o1xoAxk8pvJJn</guid>
+      <pubDate>Tue, 20 Feb 2024 15:23:06 +0000</pubDate>
+      <description><![CDATA[Wring every penny of bandwidth from your ISP with a next-generation router or mesh setup.]]></description>
+      <link>https://www.extremetech.com/computing/the-best-router-and-mesh-wi-fi-deals</link>
+      <dc:creator>K. Thor Jensen</dc:creator>
+      <category><![CDATA[Computing]]></category>
+    </item>
+    <item>
+      <title>Microsoft Visual Studio Pro 2022 Is Only $44.99 for Life</title>
+      <guid isPermaLink="false">07K4z75ZCJ8DD41ZkHgSWOf</guid>
+      <pubDate>Tue, 20 Feb 2024 14:59:00 +0000</pubDate>
+      <description><![CDATA[Code cross-platform and mobile apps.]]></description>
+      <link>https://www.extremetech.com/deals/microsoft-visual-studio-pro-2022-is-only-4499-for-life</link>
+      <dc:creator>StackCommerce Team </dc:creator>
+      <category><![CDATA[Deals]]></category>
+    </item>
+    <item>
+      <title>Take to the Skies With $175 Off This 4K Drone</title>
+      <guid isPermaLink="false">03OQM5wty348YT5WNoebrN3</guid>
+      <pubDate>Tue, 20 Feb 2024 14:58:48 +0000</pubDate>
+      <description><![CDATA[You'll have to put a code in, but this is the lowest price we've ever seen on the Holy Stone HS720 drone.]]></description>
+      <link>https://www.extremetech.com/electronics/take-to-the-skies-with-175-off-this-4k-drone</link>
+      <dc:creator>K. Thor Jensen</dc:creator>
+      <category><![CDATA[Consumer Electronics]]></category>
+    </item>
+    <item>
+      <title>You Can Apply to Live in NASA’s Mars Simulation for a Year</title>
+      <guid isPermaLink="false">02ryFyP8sCf5OIHl4nomQ3s</guid>
+      <pubDate>Tue, 20 Feb 2024 14:41:00 +0000</pubDate>
+      <description><![CDATA[If you have the right qualifications—and time to spare—CHAPEA 2 is now recruiting.]]></description>
+      <link>https://www.extremetech.com/science/you-can-apply-to-live-in-nasas-mars-simulation-for-a-year</link>
+      <dc:creator>Adrianna Nine</dc:creator>
+      <category><![CDATA[Science]]></category>
+    </item>
+    <item>
+      <title>Airline Forced to Honor Chatbot's Off-the-Cuff Refund Policy</title>
+      <guid isPermaLink="false">03e5MukehX1xMr5peWrH6ph</guid>
+      <pubDate>Tue, 20 Feb 2024 13:25:56 +0000</pubDate>
+      <description><![CDATA[It’s only a matter of time before Air Canada’s blunder becomes a legal precedent for other Canadians misled by customer service chatbots.]]></description>
+      <link>https://www.extremetech.com/internet/airline-forced-to-honor-chatbots-off-the-cuff-refund-policy</link>
+      <dc:creator>Adrianna Nine</dc:creator>
+      <category><![CDATA[Internet & Security]]></category>
+    </item>
+    <item>
+      <title>2 NASA Telescopes Shed Light on Mysterious Fast Radio Bursts</title>
+      <guid isPermaLink="false">02M2rMm84nzXzPdl6PaUPJ4</guid>
+      <pubDate>Tue, 20 Feb 2024 13:00:00 +0000</pubDate>
+      <description><![CDATA[NASA was watching when our local FRB source woke up in late 2022.]]></description>
+      <link>https://www.extremetech.com/science/2-nasa-telescopes-shed-light-on-mysterious-fast-radio-bursts</link>
+      <dc:creator>Ryan Whitwam</dc:creator>
+      <category><![CDATA[Science]]></category>
+    </item>
+    <item>
+      <title>NASA Reveals Record-Breaking OSIRIS-REx Asteroid Sample</title>
+      <guid isPermaLink="false">04jtMyb48h6ABb4STPcdR9v</guid>
+      <pubDate>Tue, 20 Feb 2024 12:00:00 +0000</pubDate>
+      <description><![CDATA[Having fully cleaned out the sample container, NASA has a whopping 121.6 grams of material from Bennu.]]></description>
+      <link>https://www.extremetech.com/science/nasa-reveals-record-breaking-osiris-rex-asteroid-sample</link>
+      <dc:creator>Ryan Whitwam</dc:creator>
+      <category><![CDATA[Science]]></category>
+    </item>
+    <item>
+      <title>Get a BirdBike eBike for Just $700 Through Feb. 21</title>
+      <guid isPermaLink="false">07Me3paCnSVGpMRQ1bvuhiI</guid>
+      <pubDate>Tue, 20 Feb 2024 11:59:00 +0000</pubDate>
+      <description><![CDATA[Take advantage of our best-on-the-web price and free shipping for this versatile eBike.]]></description>
+      <link>https://www.extremetech.com/deals/get-a-birdbike-ebike-for-just-700-through-feb-21</link>
+      <dc:creator>StackCommerce Team </dc:creator>
+      <category><![CDATA[Deals]]></category>
+    </item>
+    <item>
+      <title>What Is Pi, and Why Is It So Important?</title>
+      <guid isPermaLink="false">061Um85Mo0ZqC6oKfuKqwNJ</guid>
+      <pubDate>Mon, 19 Feb 2024 13:00:00 +0000</pubDate>
+      <description><![CDATA[]]></description>
+      <link>https://www.extremetech.com/science/what-is-pi-and-why-is-it-so-important</link>
+      <dc:creator>Jessica Hall</dc:creator>
+      <category><![CDATA[Science]]></category>
+    </item>
+    <item>
+      <title>How to Upgrade From a Smaller SSD to a Larger One</title>
+      <guid isPermaLink="false">02r6FKjtjzWHtFDnhfAqJXM</guid>
+      <pubDate>Sun, 18 Feb 2024 13:00:00 +0000</pubDate>
+      <description><![CDATA[It never takes long for hundreds of gigabytes of empty space to turn into a straightjacket, but moving your OS installation and files can be a pain. We're here to help.]]></description>
+      <link>https://www.extremetech.com/computing/261505-upgrade-larger-ssd</link>
+      <dc:creator>Josh Norem, Joel Hruska</dc:creator>
+      <category><![CDATA[Computing]]></category>
+    </item>
+    <item>
+      <title>AMD Patches Four Vulnerabilities for Its Epyc and Ryzen CPUs</title>
+      <guid isPermaLink="false">06mgYfk1k16xPbdRXnto7eq</guid>
+      <pubDate>Sat, 17 Feb 2024 13:45:00 +0000</pubDate>
+      <description><![CDATA[The newly revealed vulnerabilities affect a wide range of AMD CPUs from the original Zen to its latest Ryzen 7000 CPUs.]]></description>
+      <link>https://www.extremetech.com/computing/amd-patches-four-vulnerabilities-for-its-epyc-and-ryzen-cpus</link>
+      <dc:creator>Josh Norem</dc:creator>
+      <category><![CDATA[Computing]]></category>
+    </item>
+    <item>
+      <title>The 5 Levels of Autonomous Driving Explained</title>
+      <guid isPermaLink="false">007xTwq71NHqBqSh5eOeZd0</guid>
+      <pubDate>Sat, 17 Feb 2024 13:00:00 +0000</pubDate>
+      <description><![CDATA[As more companies develop and deliver their own 'self-driving' technology, you'll want to know all about SAE International's autonomy lingo. This guide will help.]]></description>
+      <link>https://www.extremetech.com/cars/the-5-levels-of-autonomous-driving-explained</link>
+      <dc:creator>Adrianna Nine</dc:creator>
+      <category><![CDATA[Cars]]></category>
+    </item>
+    <item>
+      <title>OpenAI Announces Amazing, Terrifying 'Sora' Video Generating AI</title>
+      <guid isPermaLink="false">07AHEDaMIROKpw93kO2uxk7</guid>
+      <pubDate>Fri, 16 Feb 2024 18:45:00 +0000</pubDate>
+      <description><![CDATA[With a few words, Sora can generate incredibly professional videos.]]></description>
+      <link>https://www.extremetech.com/computing/openai-announces-amazing-terrifying-sora-video-generating-ai</link>
+      <dc:creator>Ryan Whitwam</dc:creator>
+      <category><![CDATA[Computing]]></category>
+    </item>
+    <item>
+      <title>Report: Apple Will Increase Its 3nm Orders From TSMC by 50% in 2024</title>
+      <guid isPermaLink="false">06mKTStiJfU7m58eqHbjwSm</guid>
+      <pubDate>Fri, 16 Feb 2024 17:57:02 +0000</pubDate>
+      <description><![CDATA[The company will likely once again be TSMC's biggest customer for the year.]]></description>
+      <link>https://www.extremetech.com/computing/report-apple-will-increase-its-3nm-orders-from-tsmc-by-50-in-2024</link>
+      <dc:creator>Josh Norem</dc:creator>
+      <category><![CDATA[Computing]]></category>
+    </item>
+    <item>
+      <title>Nvidia Unveils Its Eos Supercomputer for AI Training</title>
+      <guid isPermaLink="false">04dqJE0xxJZyZGUG7FMDZng</guid>
+      <pubDate>Fri, 16 Feb 2024 15:41:12 +0000</pubDate>
+      <description><![CDATA[It's already ranked as the ninth-fastest supercomputer in the world.]]></description>
+      <link>https://www.extremetech.com/computing/nvidia-unveils-its-eos-supercomputer-for-ai-training</link>
+      <dc:creator>Josh Norem</dc:creator>
+      <category><![CDATA[Computing]]></category>
+    </item>
+    <item>
+      <title>Pwn Your 3-Day Weekend With President's Day Gaming Deals</title>
+      <guid isPermaLink="false">07n2HSSkgxW8mRWM9NpB5kh</guid>
+      <pubDate>Fri, 16 Feb 2024 15:37:43 +0000</pubDate>
+      <description><![CDATA[Our Founding Fathers have deep price drops for you on all sorts of games and accessories.]]></description>
+      <link>https://www.extremetech.com/gaming/pwn-your-3-day-weekend-with-presidents-day-gaming-deals</link>
+      <dc:creator>K. Thor Jensen</dc:creator>
+      <category><![CDATA[Gaming]]></category>
+    </item>
+  </channel>
+</rss>

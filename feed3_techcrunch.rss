@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>TechCrunch</title>
+	<atom:link href="https://techcrunch.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://techcrunch.com/</link>
+	<description>Startup and Technology News</description>
+	<lastBuildDate>Sat, 02 Mar 2024 02:34:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32</url>
+	<title>TechCrunch</title>
+	<link>https://techcrunch.com/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Waymo can now charge for robotaxi rides in LA and on San Francisco freeways</title>
+		<link>https://techcrunch.com/2024/03/01/waymo-can-now-charge-for-robotaxi-rides-in-la-and-on-san-francisco-freeways/</link>
+		
+		<dc:creator><![CDATA[Kirsten Korosec]]></dc:creator>
+		<pubDate>Fri, 01 Mar 2024 23:09:45 +0000</pubDate>
+				<category><![CDATA[Transportation]]></category>
+		<category><![CDATA[autonomous vehicles]]></category>
+		<category><![CDATA[Los Angeles]]></category>
+		<category><![CDATA[StrictlyVC]]></category>
+		<category><![CDATA[waymo]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2673546</guid>
+
+					<description><![CDATA[<p>Waymo received approval Friday afternoon from the California Public Utilities Commission to operate a commercial robotaxi service in Los Angeles, the San Francisco Peninsula and on San Francisco freeways. The approval removes the last barrier for the Alphabet company to charge for rides in these expanded areas. Importantly, it opens up new territory for Waymo [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Rabbit&#8217;s Jesse Lyu on the nature of startups: &#8216;Grow faster, or die faster,&#8217; just don&#8217;t give up</title>
+		<link>https://techcrunch.com/2024/03/01/rabbits-jesse-lyu-on-the-nature-of-startups-grow-faster-or-die-faster-just-dont-give-up/</link>
+		
+		<dc:creator><![CDATA[Devin Coldewey]]></dc:creator>
+		<pubDate>Fri, 01 Mar 2024 22:43:17 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[rabbit]]></category>
+		<category><![CDATA[rabbit r1]]></category>
+		<category><![CDATA[StrictlyVC]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2673507</guid>
+
+					<description><![CDATA[<p>Rabbit co-founder and CEO Jesse Lyu isn&#8217;t afraid of death … the death of the company, at least. He told TechCrunch that the company is a startup whose fortunes may be swayed by the whims of multibillion-dollar rivals — but that&#8217;s no reason to give up and go home. Appearing onstage at StrictlyVC LA, Lyu [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>A comprehensive list of 2023 &#038; 2024 tech layoffs</title>
+		<link>https://techcrunch.com/2024/03/01/tech-layoffs-2023-list/</link>
+		
+		<dc:creator><![CDATA[Alyssa Stringer]]></dc:creator>
+		<pubDate>Fri, 01 Mar 2024 21:50:20 +0000</pubDate>
+				<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Venture]]></category>
+		<category><![CDATA[Layoffs]]></category>
+		<category><![CDATA[tech layoffs]]></category>
+		<category><![CDATA[TechCrunch 2023 Recap]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2607662</guid>
+
+					<description><![CDATA[<p>The tech-wide reckoning that began in 2022 and ran throughout into 2023 has continued into this year. And while 2024&#8217;s losses are not at that scale, they&#8217;re still significant, driven by big names like Pixar, Google, Microsoft, Mozilla and TikTok. It remains to be seen if this year&#8217;s layoff trends follow last year&#8217;s, in which [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Stay up-to-date on the amount of venture dollars going to underrepresented founders</title>
+		<link>https://techcrunch.com/2024/03/01/stay-up-to-date-on-the-amount-of-venture-dollars-going-to-underrepresented-founders/</link>
+		
+		<dc:creator><![CDATA[Dominic-Madori Davis]]></dc:creator>
+		<pubDate>Fri, 01 Mar 2024 21:10:44 +0000</pubDate>
+				<category><![CDATA[Venture]]></category>
+		<category><![CDATA[black founders]]></category>
+		<category><![CDATA[DEI]]></category>
+		<category><![CDATA[diverse founders]]></category>
+		<category><![CDATA[venture capital]]></category>
+		<category><![CDATA[women founders]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2667925</guid>
+
+					<description><![CDATA[<p>Stay up-to-date on the latest funding news for Black and women founders. </p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>MWC 2024: Everything announced so far, including Swayy&#8217;s app to tell friends where you&#8217;ll be next</title>
+		<link>https://techcrunch.com/2024/03/01/mwc-2024-everything-you-need-to-know/</link>
+		
+		<dc:creator><![CDATA[Christine Hall]]></dc:creator>
+		<pubDate>Fri, 01 Mar 2024 20:26:10 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[Mobile World Congress]]></category>
+		<category><![CDATA[mwc]]></category>
+		<category><![CDATA[mwc 2024]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2670352</guid>
+
+					<description><![CDATA[<p>The TechCrunch team is in Barcelona this week to bring you all the action going on at Mobile World Congress 2024.</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Is there anything AI can’t do?</title>
+		<link>https://techcrunch.com/2024/03/01/is-there-anything-ai-cant-do/</link>
+		
+		<dc:creator><![CDATA[Haje Jan Kamps]]></dc:creator>
+		<pubDate>Fri, 01 Mar 2024 20:05:57 +0000</pubDate>
+				<category><![CDATA[Startups]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[EVs]]></category>
+		<category><![CDATA[Generative AI]]></category>
+		<category><![CDATA[google gemini]]></category>
+		<category><![CDATA[Startups Weekly]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2673079</guid>
+
+					<description><![CDATA[<p>The current-generation AI technology is the tech equivalent of a toddler, and all the mediocre reviews various GenAI software is getting is tantamount to judging a fish by its ability to climb a tree.</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Ultraleap is bringing haptic touch to cars and VR headsets</title>
+		<link>https://techcrunch.com/2024/03/01/ultraleap-is-bringing-haptic-touch-to-cars-and-vr-headsets/</link>
+		
+		<dc:creator><![CDATA[Brian Heater]]></dc:creator>
+		<pubDate>Fri, 01 Mar 2024 19:26:01 +0000</pubDate>
+				<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[leap motion]]></category>
+		<category><![CDATA[mwc]]></category>
+		<category><![CDATA[mwc 2024]]></category>
+		<category><![CDATA[Ultrahaptics]]></category>
+		<category><![CDATA[Ultraleap]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2673417</guid>
+
+					<description><![CDATA[<p>In May 2019, Ultrahaptics and Leap Motion became Ultraleap (not to be confused with Magic Leap, which operates in the same space). It’s a name change representing the marriage of two different, yet related, tech startups. Ultrahaptics naturally got top billing, as it was the one doing the acquiring – paying around $30 million for [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Rants, AI and other notes from Upfront Summit</title>
+		<link>https://techcrunch.com/2024/03/01/upfront-summit-summary/</link>
+		
+		<dc:creator><![CDATA[Christine Hall]]></dc:creator>
+		<pubDate>Fri, 01 Mar 2024 19:00:28 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Venture]]></category>
+		<category><![CDATA[Upfront Summit]]></category>
+		<category><![CDATA[venture capital]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2673402</guid>
+
+					<description><![CDATA[<p>Venture capitalists were in Los Angeles this week for the Upfront Summit, an invite-only conference with celebrity sightings and plenty of talk on the future of the VC industry.</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Threads says it will make its API broadly available by June</title>
+		<link>https://techcrunch.com/2024/03/01/threads-says-it-will-make-its-api-broadly-available-by-june/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Fri, 01 Mar 2024 18:32:25 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[api]]></category>
+		<category><![CDATA[developers]]></category>
+		<category><![CDATA[Instagram Threads]]></category>
+		<category><![CDATA[meta]]></category>
+		<category><![CDATA[threads]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2673421</guid>
+
+					<description><![CDATA[<p>Meta-owned social network Threads said today that it will make its API broadly available to developers by June. Engineer Jesse Chen posted that the company has been building the API for the past few months. The API currently allows users to authenticate, publish threads and fetch the content they post through these tools. &#8220;Over the [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Compete or cooperate? Five deep tech investors opt for shared gain over sharp elbows</title>
+		<link>https://techcrunch.com/2024/03/01/venx-collaborative-launch/</link>
+		
+		<dc:creator><![CDATA[Tim De Chant]]></dc:creator>
+		<pubDate>Fri, 01 Mar 2024 18:22:20 +0000</pubDate>
+				<category><![CDATA[Climate]]></category>
+		<category><![CDATA[Venture]]></category>
+		<category><![CDATA[deep tech]]></category>
+		<category><![CDATA[venture capital]]></category>
+		<category><![CDATA[Venx]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2673409</guid>
+
+					<description><![CDATA[<p>The collaborative, known as Venx, allows Boston VCs to share offices, pitch meetings, and insights.</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Spotify, Epic Games and others pen letter to EC, claiming Apple has made a &#8216;mockery&#8217; of the DMA</title>
+		<link>https://techcrunch.com/2024/03/01/spotify-epic-games-and-others-pen-letter-to-ec-claiming-apple-has-made-a-mockery-of-the-dma/</link>
+		
+		<dc:creator><![CDATA[Sarah Perez]]></dc:creator>
+		<pubDate>Fri, 01 Mar 2024 18:18:42 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Digital Markets Act]]></category>
+		<category><![CDATA[dm]]></category>
+		<category><![CDATA[DMA]]></category>
+		<category><![CDATA[EC]]></category>
+		<category><![CDATA[Epic Games]]></category>
+		<category><![CDATA[eu]]></category>
+		<category><![CDATA[european commission]]></category>
+		<category><![CDATA[european union]]></category>
+		<category><![CDATA[Spotify]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2673382</guid>
+
+					<description><![CDATA[<p>Epic Games, Spotify, Proton, 37signals and other developers had already signaled their displeasure with how Apple has chosen to adapt its rules to meet the requirements of the new EU regulation, the Digital Markets Act (DMA), calling it &#8220;extortion&#8221; and &#8220;bad-faith&#8221; compliance, among other things. Now those companies have formalized their complaints in a letter [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>AgZen&#8217;s RealCoverage wants to keep pesticides only where they are needed</title>
+		<link>https://techcrunch.com/2024/03/01/agzen-realcoverage/</link>
+		
+		<dc:creator><![CDATA[Haje Jan Kamps]]></dc:creator>
+		<pubDate>Fri, 01 Mar 2024 18:10:16 +0000</pubDate>
+				<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[Robotics]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[AgTech]]></category>
+		<category><![CDATA[environment]]></category>
+		<category><![CDATA[Environmental Protection Agency]]></category>
+		<category><![CDATA[farming]]></category>
+		<category><![CDATA[public health]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2673380</guid>
+
+					<description><![CDATA[<p>A 2021 study found that if farmers didn’t use pesticides, they would lose 78% of fruit production, 54% of vegetable production, and 32% of cereal production. At the same time, the way pesticides are delivered is not ideal: The only way to guarantee enough pesticide distribution is to spray too much. That isn&#8217;t great for [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>MyHeritage debuts OldNews.com, offering access to millions of historical newspaper pages</title>
+		<link>https://techcrunch.com/2024/03/01/myheritage-launches-oldnews-com-a-website-with-access-to-millions-of-historical-newspaper-pages/</link>
+		
+		<dc:creator><![CDATA[Aisha Malik]]></dc:creator>
+		<pubDate>Fri, 01 Mar 2024 18:00:45 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[ancestry]]></category>
+		<category><![CDATA[journalism]]></category>
+		<category><![CDATA[myheritage]]></category>
+		<category><![CDATA[newspapers]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2672922</guid>
+
+					<description><![CDATA[<p>MyHeritage announced today that it&#8217;s launching OldNews.com, a new website that offers access to thousands of historical newspapers, mainly from the 1800s and 1900s. The website includes articles from major international newspapers to small-town journals and gazettes. Its search engine lets you quickly find information on a person, topic or event. OldNews is a subscription-based [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Fohm rebrands to Saintly, for a heavenly clean bottom</title>
+		<link>https://techcrunch.com/2024/03/01/fohm-to-saintly/</link>
+		
+		<dc:creator><![CDATA[Haje Jan Kamps]]></dc:creator>
+		<pubDate>Fri, 01 Mar 2024 17:32:40 +0000</pubDate>
+				<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[Fohm]]></category>
+		<category><![CDATA[Saintly]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2673104</guid>
+
+					<description><![CDATA[<p>When it comes to doing business &#8212; not startups but that other kind of business for which you have a whole separate room in your house &#8212; we need to talk about wipes. Wet wipes are great for your tush, but awful for the environment. It turns out not everyone is fond of dry wiping, [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>AI chip startup Groq forms new business unit, acquires Definitive Intelligence</title>
+		<link>https://techcrunch.com/2024/03/01/ai-chip-startup-groq-forms-new-business-unit-acquires-definitive-intelligence/</link>
+		
+		<dc:creator><![CDATA[Kyle Wiggers]]></dc:creator>
+		<pubDate>Fri, 01 Mar 2024 17:32:25 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[acquisition]]></category>
+		<category><![CDATA[AI chips]]></category>
+		<category><![CDATA[groq]]></category>
+		<category><![CDATA[startup]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2673324</guid>
+
+					<description><![CDATA[<p>Groq, a startup developing chips to run generative AI models faster than conventional hardware, has an eye toward the enterprise &#8212; and public sector. Today, Groq announced that it&#8217;s forming a new division &#8212; Groq Systems &#8212; focused on greatly expanding its customer and developer ecosystem. Within Groq Systems&#8217; purview is serving organizations, including government [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>MWC: Swayy app lets you share your future location with close friends, or groups you curate</title>
+		<link>https://techcrunch.com/2024/03/01/swayy/</link>
+		
+		<dc:creator><![CDATA[Mike Butcher]]></dc:creator>
+		<pubDate>Fri, 01 Mar 2024 17:11:58 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Location]]></category>
+		<category><![CDATA[location based services]]></category>
+		<category><![CDATA[location sharing]]></category>
+		<category><![CDATA[mwc]]></category>
+		<category><![CDATA[mwc 2024]]></category>
+		<category><![CDATA[Swayy]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2673315</guid>
+
+					<description><![CDATA[<p>Given that this week Instagram revealed that it was developing a “Friend Map” feature, it was interesting and timely to run into a startup during Mobile World Congress that plans to go beyond even that. Swayy is an iPhone app startup that allows you to share not your current location, but your next intended location. [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Apple reverses decision about blocking web apps on iPhones in the EU</title>
+		<link>https://techcrunch.com/2024/03/01/apple-reverses-decision-about-blocking-web-apps-on-iphones-in-the-eu/</link>
+		
+		<dc:creator><![CDATA[Ivan Mehta]]></dc:creator>
+		<pubDate>Fri, 01 Mar 2024 17:11:02 +0000</pubDate>
+				<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[DMA]]></category>
+		<category><![CDATA[eu]]></category>
+		<category><![CDATA[safari]]></category>
+		<category><![CDATA[web apps]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2673309</guid>
+
+					<description><![CDATA[<p>Apple has reversed its decision about blocking web apps, also known as Progressive Web Apps (PWAs), on iPhones in the EU. The company updated its developer page saying that after receiving many requests to support PWAs, it will reinstate the functionality in the upcoming public release of iOS 17.4. PWAs can act like native apps [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Now the EU is asking questions about Meta&#8217;s &#8216;pay or be tracked&#8217; consent model</title>
+		<link>https://techcrunch.com/2024/03/01/meta-rfi-dsa-ad-free-subscription/</link>
+		
+		<dc:creator><![CDATA[Natasha Lomas]]></dc:creator>
+		<pubDate>Fri, 01 Mar 2024 16:14:30 +0000</pubDate>
+				<category><![CDATA[Government & Policy]]></category>
+		<category><![CDATA[Privacy]]></category>
+		<category><![CDATA[Social]]></category>
+		<category><![CDATA[meta ad-free subscription dsa]]></category>
+		<category><![CDATA[meta consent or pay dsa]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2673193</guid>
+
+					<description><![CDATA[<p>Meta&#8217;s controversial pay or be tracked &#8216;consent&#8217; choice for users the European Union is facing questions from the European Commission. Today the bloc said it&#8217;s sent Facebook and Instagram&#8217;s owner a formal request for information (RFI) under the Digital Services Act (DSA), asking it to provide more detail on the &#8220;Subscription for no Ads options&#8221; [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>NSA says it&#8217;s tracking Ivanti cyberattacks as hackers hit US defense sector</title>
+		<link>https://techcrunch.com/2024/03/01/nsa-says-its-tracking-ivanti-cyberattacks-as-hackers-hit-us-defense-sector/</link>
+		
+		<dc:creator><![CDATA[Carly Page]]></dc:creator>
+		<pubDate>Fri, 01 Mar 2024 16:00:51 +0000</pubDate>
+				<category><![CDATA[Security]]></category>
+		<category><![CDATA[cybersecurity]]></category>
+		<category><![CDATA[ivanti]]></category>
+		<category><![CDATA[NSA]]></category>
+		<category><![CDATA[us government]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2673265</guid>
+
+					<description><![CDATA[<p>The U.S. National Security Agency has confirmed that hackers exploiting flaws in Ivanti’s widely used enterprise VPN appliance have targeted organizations across the U.S. defense sector. NSA spokesperson Edward Bennett confirmed in an emailed statement to TechCrunch on Friday that the U.S. intelligence agency, along with its interagency counterparts, is “tracking and aware of the [&#8230;]</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Pitch Deck Teardown: CommandBar&#8217;s $4.8M seed deck</title>
+		<link>https://techcrunch.com/2024/03/01/commandbar-seed-deck-teardown/</link>
+		
+		<dc:creator><![CDATA[Haje Jan Kamps]]></dc:creator>
+		<pubDate>Fri, 01 Mar 2024 16:00:51 +0000</pubDate>
+				<category><![CDATA[Startups]]></category>
+		<category><![CDATA[Venture]]></category>
+		<category><![CDATA[CommandBar]]></category>
+		<category><![CDATA[fundraising]]></category>
+		<category><![CDATA[Pitch Deck Teardown]]></category>
+		<category><![CDATA[pitch decks]]></category>
+		<guid isPermaLink="false">https://techcrunch.com/?p=2670809</guid>
+
+					<description><![CDATA[<p>In the midst of CommandBar's pretty slim pitch deck, there are some innovations that are worth shining a light on.</p>
+<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>
+]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>
